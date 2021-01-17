@@ -1,0 +1,19 @@
+body
+{
+color:gray;
+}
+h1{
+    color:rgb(93, 14, 221);
+}
+h2{
+    color:blue;
+}
+h3{
+    color:black;
+}
+#lib-header{
+    color:red;
+}
+.para{
+    color:rgb(245, 6, 193);
+} 
