@@ -1,19 +1,5 @@
-body
-{
-color:gray;
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+body{
+    font-family: 'Roboto', sans-serif;
 }
-h1{
-    color:rgb(93, 14, 221);
-}
-h2{
-    color:blue;
-}
-h3{
-    color:black;
-}
-#lib-header{
-    color:red;
-}
-.para{
-    color:rgb(245, 6, 193);
-} 
